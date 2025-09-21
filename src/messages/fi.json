@@ -1,0 +1,12 @@
+{
+  "site": {
+    "title": "Konvikti",
+    "tagline": "Ylioppilaskoti teologeille • <strong>Student home</strong> for theologians"
+  },
+  "home": {
+    "cards": {
+      "news": {"label": "Uutiset", "fallback": "Uusin tiedote", "cta": "Avaa uutiset →"},
+      "info": {"label": "Tietoa", "title": "Tietoa Konviktista", "cta": "Avaa info →"}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "site": {
+    "title": "Konvikti",
+    "tagline": "Student home for theologians • <strong>Ylioppilaskoti</strong> teologeille"
+  },
+  "home": {
+    "cards": {
+      "news": {"label": "News", "fallback": "Latest update", "cta": "Open news →"},
+      "info": {"label": "Info", "title": "About Konvikti", "cta": "Open info →"}
+    }
+  }
+}
